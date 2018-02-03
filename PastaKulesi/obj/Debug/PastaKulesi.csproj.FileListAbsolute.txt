@@ -1,0 +1,21 @@
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\bin\Debug\PastaKulesi.exe.config
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\bin\Debug\PastaKulesi.exe
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\bin\Debug\PastaKulesi.pdb
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.csprojResolveAssemblyReference.cache
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.Form1.resources
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.Properties.Resources.resources
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.csproj.GenerateResource.Cache
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.exe
+C:\Users\sami\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.pdb
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\bin\Debug\PastaKulesi.exe.config
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\obj\Debug\PastaKulesi.exe
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\obj\Debug\PastaKulesi.pdb
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\bin\Debug\PastaKulesi.exe
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\bin\Debug\PastaKulesi.pdb
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\obj\Debug\PastaKulesi.csprojResolveAssemblyReference.cache
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\obj\Debug\PastaKulesi.Form1.resources
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\obj\Debug\PastaKulesi.Properties.Resources.resources
+C:\Users\sami\Desktop\PastaKulesi - Kopya\PastaKulesi\obj\Debug\PastaKulesi.csproj.GenerateResource.Cache
+C:\Users\Everest\Desktop\PastaKulesi\PastaKulesi\bin\Debug\PastaKulesi.exe.config
+C:\Users\Everest\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.exe
+C:\Users\Everest\Desktop\PastaKulesi\PastaKulesi\obj\Debug\PastaKulesi.pdb
